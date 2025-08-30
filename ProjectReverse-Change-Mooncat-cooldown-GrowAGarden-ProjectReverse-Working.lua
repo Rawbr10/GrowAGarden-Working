@@ -74,7 +74,7 @@ end
 
 -- Script B (Grow a Garden)
 local function ScriptB()
-    loadstring(game:HttpGet("https://github.com/Rawbr10/GrowAGarden-GrowAGarden/raw/refs/heads/main/GrowAGarden-Working-Mooncat.lua"))()
+    loadstring(game:HttpGet("https://github.com/Rawbr10/GrowAGarden-Working/raw/refs/heads/main/settings%20Change%20Moon%20Cat%20Cooldown%20+%20MoonCat%20Range%20Changer"))()
 end
 
 -- Player count check
