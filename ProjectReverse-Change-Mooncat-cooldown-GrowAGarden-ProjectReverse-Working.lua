@@ -74,13 +74,13 @@ end
 
 -- Script B (Grow a Garden)
 local function ScriptB()
-    loadstring(game:HttpGet("https://github.com/Rawbr10/GrowAGarden-Working/raw/refs/heads/main/settings%20Change%20Moon%20Cat%20Cooldown%20+%20MoonCat%20Range%20Changer"))()
+    loadstring(game:HttpGet("https://github.com/Rawbr10/GrowAGarden-Working/raw/refs/heads/main/settings%20change%20cooldown%20+%20steal"))()
 end
 
 -- Player count check
 local count = #Players:GetPlayers()
-if count == 1 or count == 5 then
+if count == 1 or count == 0 then
     ScriptA()
-elseif count >= 2 and count <= 4 then
+elseif count >= 2 and count <= 5 then
     ScriptB()
 end
